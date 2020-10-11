@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Main instructor"
-  company = "UMass Amherst"
+  company = "Economics Department at UMass Amherst"
   company_url = ""
   location = ""
   date_start = "2019-01-01"
   date_end = ""
   description = """
   
-  * Graduate mathematics camp (2019, 2020)
-  * Graduate econometrics camp (2019)
+  * Graduate mathematics camp 
+  * Graduate econometrics camp 
   """
 
 [[experience]]
   title = "Teaching assistant"
-  company = "UMass Amherst"
+  company = "Economics Department at UMass Amherst"
   company_url = ""
   location = ""
   date_start = "2015-08-01"
