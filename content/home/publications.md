@@ -66,11 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-[[pages]]
-Something something?
- 
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+# {{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+# {{% /callout %}}
