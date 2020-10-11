@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = ""
   description = """
-  Teaching graduate courses to first and second year PhD students:
   
   * Graduate mathematics camp (2019, 2020)
   * Graduate econometrics camp (2019)
@@ -39,9 +38,7 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
   date_end = ""
   description = """
-  
-  Assisting in the teaching of graduate and undergraduate courses:
-  
+    
   * Graduate mathematical economics
   * Graduate macroeconomics
   * Undergraduate econometrics/R lab
