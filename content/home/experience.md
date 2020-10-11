@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Teaching Experience"
+title = "Teaching $\&$ Other Experience"
 subtitle = ""
 
 # Date format for experience
@@ -29,6 +29,18 @@ date_format = "Jan 2006"
   * Graduate mathematics camp 
   * Graduate econometrics camp 
   """
+  
+[[experience]]
+  title = "Lab instructor, R"
+  company = "Economics Department at UMass Amherst"
+  company_url = ""
+  location = ""
+  date_start = "2017-09-01"
+  date_end = "2017-12-01"
+  description = """
+  
+  * Undergraduate econometrics
+  """
 
 [[experience]]
   title = "Teaching assistant"
@@ -46,5 +58,16 @@ date_format = "Jan 2006"
   * Undergraduate introduction to macroeconomics
  
   """
+  
+  [[experience]]
+  title = "Research assistant"
+  company = "Political Economy Research Institute at UMass Amherst"
+  company_url = ""
+  location = ""
+  date_start = "2016-05-01"
+  date_end = "2017-08-01"
+  #description = """
+ 
+  #"""
 
 +++
