@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Main instructor"
+  company = "UMass Amherst"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2019-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Teaching graduate courses to first and second year PhD students:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Graduate mathematics camp (2019, 2020)
+  * Graduate econometrics camp (2019)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching assistant"
+  company = "UMass Amherst"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2015-08-01"
+  date_end = ""
+  description = """
+  
+  Assisting in the teaching of graduate and undergraduate courses:
+  
+  * Graduate mathematical economics
+  * Graduate macroeconomics
+  * Undergraduate econometrics/R lab
+  * Undergraduate game theory
+  * Undergraduate introduction to macroeconomics
+ 
+  """
 
 +++
