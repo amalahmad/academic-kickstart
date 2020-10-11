@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Teaching and Other Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -58,16 +58,6 @@ date_format = "Jan 2006"
   * Undergraduate introduction to macroeconomics
  
   """
-  
-  [[experience]]
-  title = "Research assistant"
-  company = "Political Economy Research Institute at UMass Amherst"
-  company_url = ""
-  location = ""
-  date_start = "2016-05-01"
-  date_end = "2017-08-01"
-  # description = """
  
-  # """
 
 +++
