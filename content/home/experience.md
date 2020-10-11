@@ -53,7 +53,6 @@ date_format = "Jan 2006"
     
   * Graduate mathematical economics
   * Graduate macroeconomics
-  * Undergraduate econometrics/R lab
   * Undergraduate game theory
   * Undergraduate introduction to macroeconomics
  
