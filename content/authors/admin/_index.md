@@ -49,7 +49,7 @@ social:
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/amal-ahmad-12879252/
 - icon: github
   icon_pack: fab
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Massachusetts Amherst. My research interests focus on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing regions. 
+I am a PhD candidate in Economics at the University of Massachusetts Amherst. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
