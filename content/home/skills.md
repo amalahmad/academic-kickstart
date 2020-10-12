@@ -18,13 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Including RMarkdown and Sweave"
+  description = "Advanced proficiency; including RMarkdown and Sweave"
   
+[[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "LaTeX"
+  description = "Advanced proficiency"
+
 [[feature]]
   icon = "stripe-s"
   icon_pack = "fab"
   name = "STATA"
-  description = ""
+  description = "Working proficiency"
   
 # [[feature]]
 #  icon = "chart-line"
@@ -32,11 +38,6 @@ subtitle = ""
 #  name = "Statistics"
 #  description = "100%"  
   
-[[feature]]
-  icon = "creative-commons-share"
-  icon_pack = "fab"
-  name = "Latex"
-  description = ""
   
  # [[feature]]
  # icon = "creative-commons-share"
