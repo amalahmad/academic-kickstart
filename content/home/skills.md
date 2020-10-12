@@ -18,32 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced proficiency; including RMarkdown and Sweave"
-  
-[[feature]]
-  icon = "creative-commons-share"
-  icon_pack = "fab"
-  name = "LaTeX"
-  description = "Advanced proficiency"
+  description = ""
 
 [[feature]]
   icon = "stripe-s"
   icon_pack = "fab"
   name = "STATA"
-  description = "Working proficiency"
-  
+  description = ""
+
+[[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "LaTeX"
+  description = ""
+
 # [[feature]]
 #  icon = "chart-line"
 #  icon_pack = "fas"
 #  name = "Statistics"
 #  description = "100%"  
   
-  
- # [[feature]]
- # icon = "creative-commons-share"
- # icon_pack = "fab"
- # name = "Sweave"
- # description = ""
+ [[feature]]
+ icon = "creative-commons-share"
+ icon_pack = "fab"
+ name = "Sweave"
+ description = ""
+
+[[feature]]
+icon = "neos"
+icon_pack = "fab"
+name = "NetLogo"
+description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
