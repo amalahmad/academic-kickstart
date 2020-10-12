@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "creative-commons-share"
   icon_pack = "fab"
-  name = "$\LaTeX$"
+  name = "Latex"
   description = ""
   
   [[feature]]
