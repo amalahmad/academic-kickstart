@@ -21,16 +21,28 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "stripe-s"
+  icon_pack = "fab"
+  name = "STATA"
+  description = ""
+  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "$\LaTeX$"
+  description = ""
+  
+  [[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "Sweave"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
