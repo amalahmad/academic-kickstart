@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Including RMarkdown and Sweave"
   
 [[feature]]
   icon = "stripe-s"
@@ -38,11 +38,11 @@ subtitle = ""
   name = "Latex"
   description = ""
   
-  [[feature]]
-  icon = "creative-commons-share"
-  icon_pack = "fab"
-  name = "Sweave"
-  description = ""
+ # [[feature]]
+ # icon = "creative-commons-share"
+ # icon_pack = "fab"
+ # name = "Sweave"
+ # description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
