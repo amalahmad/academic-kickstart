@@ -14,7 +14,7 @@ role: PhD candidate, Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst 
+- name: University of Massachusetts, Amherst 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
