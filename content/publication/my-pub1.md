@@ -1,12 +1,12 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Imperfect information and learning"
+subtitle = "Evidence from cotton cultivation in Pakistan"
 
 # Date first published.
-date = "2013-07-01"
+date = "2020-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
-
+authors = "Amal Ahmad"
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -16,15 +16,15 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Submitted to *Journal XYZ*"
+# publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Information problems are pervasive in developing economies and can hinder productivity growth. This paper studies how much rural producers in developing countries can learn from their own experience to redress important information gaps. It builds a model of learning from experience and applies it using a rich and underutilized dataset on cotton farmers in Pakistan. I test whether farmers learn from cultivation experience about the pest resistance of their seeds and use this information to improve selection and productivity."
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
