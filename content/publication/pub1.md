@@ -39,7 +39,7 @@ image_preview = ""
 projects = []
 
 # Links (optional).
-# url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "publication/pub1.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
