@@ -5,7 +5,7 @@ title = "Imperfect information and learning: Evidence from cotton cultivation in
 date = "2020-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "Amal Ahmad"
+authors = ["Amal Ahmad"]
 
 # Publication type.
 # Legend:
