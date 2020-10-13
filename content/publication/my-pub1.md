@@ -1,6 +1,6 @@
 +++
-title = "Imperfect information and learning"
-subtitle = "Evidence from cotton cultivation in Pakistan"
+title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan"
+# subtitle = "Evidence from cotton cultivation in Pakistan"
 
 # Date first published.
 date = "2020-10-01"
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+# projects = []
 
 # Links (optional).
 # url_pdf = "pdf/my-paper-name.pdf"
