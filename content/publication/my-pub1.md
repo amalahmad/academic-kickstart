@@ -23,7 +23,7 @@ publication = "Submitted to *Journal XYZ*"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Information problems are pervasive in developing economies and can hinder productivity growth. This paper studies how much rural producers in developing countries can learn from their own experience to redress important information gaps. It builds a model of learning from experience and applies it using a rich and underutilized dataset on cotton farmers in Pakistan. I test whether farmers learn from cultivation experience about the pest resistance of their seeds and use this information to improve selection and productivity."
+abstract = "Information problems are pervasive in developing economies and can hinder productivity growth. This paper studies how much rural producers in developing countries can learn from their own experience to redress important information gaps. It builds a model of learning from experience and applies it using a rich and underutilized dataset on cotton farmers in Pakistan. I test whether farmers learn from cultivation experience about the pest resistance of their seeds and use this information to improve selection and productivity.."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
