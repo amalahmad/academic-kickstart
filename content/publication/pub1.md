@@ -1,5 +1,5 @@
 +++
-title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan"
+title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan (Job market paper)"
 
 # Date first published.
 date = "2020-10-01"
@@ -19,7 +19,7 @@ authors = ["Amal Ahmad"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to Journal XYZ."
+publication = "Submitted to *Journal XYZ*."
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
