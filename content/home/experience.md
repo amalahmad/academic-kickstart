@@ -61,4 +61,4 @@ date_format = "Jan 2006"
 
 +++
 
-Average student reviews 4.9/5 (available upon request).
+*Average student reviews 4.9/5 (available upon request).*
