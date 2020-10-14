@@ -1,5 +1,5 @@
 ---
-title: Manuscripts under review
+title: Publications
 
 # View.
 #   1 = List
