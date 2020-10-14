@@ -59,6 +59,9 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
+# Tags
+tags = ["Microeconomics", "Developing countries", "Learning behavior"]
+
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # [header]
