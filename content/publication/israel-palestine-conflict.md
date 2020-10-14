@@ -1,6 +1,6 @@
 +++
-title = "Land for peace? Israel-Palestine through the lens of game theory"
-
+title = "Land for peace?"
+subtitle = "Israel-Palestine through the lens of game theory"
 # Date first published.
 date = "2020-10-01"
 
