@@ -33,6 +33,10 @@ image_preview = ""
  selected = false
  
  featured = true
+ 
+ # Tags
+ 
+ tags = ["Developing countries", "Learning behavior", "Healthcare"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
