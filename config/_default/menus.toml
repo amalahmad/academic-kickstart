@@ -19,8 +19,8 @@
   weight = 40
 
 [[main]]
-  name = "Manuscripts under review"
-  url = "#publications"
+  name = "Publications"
+  url = "#featured"
   weight = 20
 
 [[main]]
