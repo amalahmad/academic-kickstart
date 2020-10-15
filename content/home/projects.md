@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Effortful learning by doing in developing countries**. This paper develops a model of learning on the job through effortful trial and error, and examines its importance for developing countries.
+***Effortful learning by doing in developing countries***. This paper develops a model of learning on the job through effortful trial and error, and examines its importance for developing countries.
 
-**The Renaissance Dam conflict reexamined**. This paper assesses the Ethiopian-Egyptian conflict using the game theory of riparian state disputes and formalizes the role of the reservoir size in the conflict.
+***The Renaissance Dam conflict reexamined***. This paper assesses the Ethiopian-Egyptian conflict using the game theory of riparian state disputes and formalizes the role of the reservoir size in the conflict.
 
