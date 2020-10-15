@@ -75,3 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
+*Effortful learning by doing*. This paper does XyZ.
+
+*Renaissance Dam*. This will will do XYZ.
+
