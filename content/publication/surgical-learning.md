@@ -19,7 +19,7 @@ authors = ["Amal Ahmad"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Book chapter forthcoming Jan 2021 in Ahmad, A. and Agarwal, A. "EOS: Guidelines for Management in Resource-Limited Settings". Taylor & Francis."
+publication = "Book chapter forthcoming Jan 2021 in Ahmad, A. and Agarwal, A. 'EOS: Guidelines for Management in Resource-Limited Settings'. Taylor and Francis."
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
