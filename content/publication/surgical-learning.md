@@ -2,7 +2,7 @@
 title = "Organizational deficiencies in developing countries and the role of global surgery"
 
 # Date first published.
-date = "2021-01-01"
+date = "2020-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
