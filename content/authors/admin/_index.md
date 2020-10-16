@@ -77,4 +77,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Massachusetts Amherst. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. I am on the job market this year and will be available for interviews at the 2020 Virtual EJM and the 2021 Virtual ASSA Meetings.
+I am a PhD candidate in Economics at the University of Massachusetts Amherst. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
+
+I am on the job market this year and will be available for interviews at the 2020 Virtual EJM and the 2021 Virtual ASSA Meetings.
