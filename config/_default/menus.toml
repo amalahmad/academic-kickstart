@@ -34,3 +34,8 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 45
+
+ [[main]]
+ name = "Job market paper"
+ url = "files/learning.pdf"
+ weight = 47
