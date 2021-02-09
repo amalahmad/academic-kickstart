@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   
   * Graduate mathematics camp 
   * Graduate econometrics camp 
-  * Undergraduate intermediate micro
+  * Undergraduate intermediate microeconomics
   """
   
 [[experience]]
