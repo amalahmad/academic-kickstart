@@ -14,7 +14,7 @@ role: PhD, Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Göttingen; University of Massachusetts Amherst
+- name: University of Göttingen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
