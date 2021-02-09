@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD, Economics
+role: Postdoctoral Fellow, Economics
 
 # Organizations/Affiliations
 organizations:
