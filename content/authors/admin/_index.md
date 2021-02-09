@@ -14,7 +14,7 @@ role: PhD, Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst; University of Göttingen
+- name: University of Göttingen; University of Massachusetts Amherst
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I have a PhD candidate in Economics from the University of Massachusetts Amherst, and am incoming Postdoctoral Fellow at the University of Göttingen in the department of Development Economics. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
+I am incoming Postdoctoral Fellow at the University of Göttingen in the department of Development Economics. I completed a PhD in Economics at the University of Massachusetts Amherst, where my research focused on developing countries, particularly the microeconomics of learning and development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
 
