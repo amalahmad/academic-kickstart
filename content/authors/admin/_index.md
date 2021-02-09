@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate, Economics
+role: PhD, Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst 
+- name: University of Massachusetts Amherst; University of Göttingen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Massachusetts Amherst
-    year: 2015-Present
+    year: 2015-2021
   - course: MSc in Development Economics
     institution: SOAS, University of London
     year: 2013
@@ -77,6 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Massachusetts Amherst. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
+I have a PhD candidate in Economics from the University of Massachusetts Amherst, and am incoming Postdoctoral Fellow at the University of Göttingen in the department of Development Economics. My research focuses on developing countries, particularly the microeconomics of development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
 
-I am on the job market this year and will be available for interviews at the 2020 Virtual EJM and after the 2021 Virtual ASSA.
