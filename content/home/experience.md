@@ -23,11 +23,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = """
   
   * Graduate mathematics camp 
   * Graduate econometrics camp 
+  * Undergraduate intermediate micro
   """
   
 [[experience]]
@@ -48,7 +49,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2015-08-01"
-  date_end = ""
+  date_end = "2020-12-01"
   description = """
     
   * Graduate mathematical economics
