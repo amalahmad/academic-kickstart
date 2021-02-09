@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "418 N Pleasant St", city = "Amherst", region = "MA", postcode = "01002", country = "United States", country_code = "US"}
+address = {street = "Waldweg 26", city = "Göttingen", postcode = "37073", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.3848", longitude = "-72.5222"}
+coordinates = {latitude = "51.542980", longitude = "9.944850"}
 
 # Directions for visitors to locate you.
 directions = ""
