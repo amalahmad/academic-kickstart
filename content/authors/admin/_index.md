@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I am incoming Postdoctoral Fellow at the University of Göttingen in the department of Development Economics. I completed a PhD in Economics at the University of Massachusetts Amherst, where my research focused on developing countries, particularly the microeconomics of learning and development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
+I am a Postdoctoral Fellow at the University of Göttingen, in the department of Development Economics and Centre for Modern Indian Studies. I completed a PhD in Economics at the University of Massachusetts Amherst, where my research focused on developing countries, particularly the microeconomics of learning and development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
 
