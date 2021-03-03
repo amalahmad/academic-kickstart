@@ -2,7 +2,7 @@
 title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan (Job market paper)"
 
 # Date first published.
-date = "2020-10-01"
+date = "2021-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
