@@ -2,7 +2,7 @@
 title = "Land for peace? Israel-Palestine through the lens of game theory"
 
 # Date first published.
-date = "2020-10-01"
+date = "2021-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
