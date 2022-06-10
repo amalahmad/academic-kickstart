@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 37  # Order that this section will appear.
+weight = 39  # Order that this section will appear.
 
 title = "Work in progress"
 subtitle = ""
@@ -75,9 +75,12 @@ subtitle = ""
  css_class = ""
 +++
 
-***The international political economy of patent buyouts*** (with Dominik Naeher and Sebastian Vollmer). This paper formally models different incentive innovation regimes (patents, buyouts, and mixed incentive regimes) in a two-country world with differentiated innovation and financing capabilities. It highlights the international public good dimension of buyouts and discusses welfare implications for developing countries.
+***The international political economy of patent buyouts*** (with Dominik Naeher and Sebastian Vollmer). 
+# This paper formally models different incentive innovation regimes (patents, buyouts, and mixed incentive regimes) in a two-country world with differentiated innovation and financing capabilities. It highlights the international public good dimension of buyouts and discusses welfare implications for developing countries.
 
-*****Early age of marriage and child health in India***** (with Rajesh Kumar Rai and Sebastian Vollmer). This paper uses large nationally representative datasets and a quasi-experimental design to study the effects of early age of marriage of women in India on subsequent child health.
+*****Early age of marriage and child health in India***** (with Rajesh Kumar Rai and Sebastian Vollmer). 
+# This paper uses large nationally representative datasets and a quasi-experimental design to study the effects of early age of marriage of women in India on subsequent child health.
 
-***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer). This paper reviews the evidence on the effectiveness of water user associations (WUAs) in developing countries in addressing infrastructure maintenance and water use problems, and on the success of international aid projects in particular in funding successful WUAs.
+***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer). 
+# This paper reviews the evidence on the effectiveness of water user associations (WUAs) in developing countries in addressing infrastructure maintenance and water use problems, and on the success of international aid projects in particular in funding successful WUAs.
 
