@@ -75,7 +75,9 @@ subtitle = ""
  css_class = ""
 +++
 
-***Effortful learning by doing in developing countries***. This paper develops a model of learning on the job through effortful trial and error, and examines its importance for developing countries.
+***The international political economy of patent buyouts*** (with Dominik Naeher and Sebastian Vollmer). This paper formally models different incentive innovation regimes (patents, buyouts, and mixed incentive regimes) in a two-country world with differentiated innovation and financing capabilities. It highlights the international public good dimension of buyouts and discusses welfare implications for developing countries.
 
-***The Renaissance Dam conflict reexamined***. This paper assesses the Ethiopian-Egyptian conflict using the game theory of riparian state disputes and formalizes the role of the reservoir size in the conflict.
+***Age of marriage and child health in India*** (with Rajesh Kumar Rai and Sebastian Vollmer). This paper uses large nationally representative datasets and a quasi-experimental design to study the effects of early age of marriage of women in India on subsequent child health.
+
+***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer). This paper reviews the evidence on the effectiveness of water user associations (WUAs) in developing countries in addressing infrastructure maintenance and water use problems, and on the success of international aid projects in particular in funding successful WUAs.
 
