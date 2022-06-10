@@ -1,5 +1,5 @@
 +++
-title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan"
+title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan (working paper)"
 
 # Date first published.
 date = "2022-01-01"
