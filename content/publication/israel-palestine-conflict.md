@@ -2,7 +2,7 @@
 title = "Land for peace? Israel-Palestine through the lens of game theory"
 
 # Date first published.
-date = "2021-02-01"
+date = "2022-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
@@ -19,11 +19,11 @@ authors = ["Amal Ahmad"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "**Defence and Peace Economics**"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Why have Israel and the Palestinians failed to implement a land for peace solution, along the lines of the Oslo Accords? This paper studies the application of game theory to this question. I show that existing formal models of the conflict largely rely on unsupported assumptions about what the main actors are trying to achieve. A more realistic specification would acknowledge the existence of fundamentally conflicting claims over the land as well as the importance of the land for future bargaining power."
+abstract = "Why have Israel and the Palestinians failed to implement a ‘land for peace’ solution, along the lines of the Oslo Accords? This paper studies the application of strategic behavior models, in the form of games, to this question. I show that existing models of the conflict largely rely on unrealistic assumptions about what the main actors are trying to achieve. Specifically, they assume that Israel is strategically interested in withdrawing from the occupied territories pending resolvable security concerns but that it is obstructed from doing so by violent Palestinians with other objectives. I use historical analysis along with bargaining theory to shed doubt on this assumption and to argue that the persistence of conflict has been aligned with, not contrary to, the interests of the militarily powerful party, Israel. The analysis helps explain, from a strategic behavior perspective, why resolutions like the Oslo Accords, which rely on the land for peace paradigm and on self-enforcement, have failed to create peace."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -41,7 +41,7 @@ image_preview = ""
 projects = []
 
 # Links (optional).
-url_pdf = "publication/wp2.pdf"
+# url_pdf = "publication/wp2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
