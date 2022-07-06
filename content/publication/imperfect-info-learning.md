@@ -19,7 +19,7 @@ authors = ["Amal Ahmad"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal Revisions Requested*"
+publication = "Forthcoming in *Journal of Economic Behavior & Organization*"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
