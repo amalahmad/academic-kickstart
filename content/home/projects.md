@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-***The international political economy of patent buyouts*** (with Dominik Naeher and Sebastian Vollmer). 
+**Ahmad, Amal,** Naeher, Dominik, and Vollmer, Sebastian. "The international political economy of patent buyouts" *Courant Research Center Working Paper* No. 290.
 
 
 ***Early age of marriage and child health in India*** (with Rajesh Kumar Rai and Sebastian Vollmer). 
