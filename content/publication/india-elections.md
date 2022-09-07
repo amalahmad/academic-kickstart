@@ -1,5 +1,5 @@
 +++
-title = "Transfers and the rise of Hindu nationalism in India"
+title = "Transfers and the rise of Hindu nationalism in India (job market paper)"
 
 # Date first published.
 date = "2022-08-01"
@@ -19,7 +19,7 @@ authors = ["Amal Ahmad"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-# publication = "Book chapter in Ahmad, A. and Agarwal, A (2021). 'EOS: Guidelines for Management in Resource-Limited Settings'. Taylor and Francis."
+# publication = 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
