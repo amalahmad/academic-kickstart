@@ -41,7 +41,7 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = "publication/pub1.pdf"
+url_pdf = "publication/imperfect-info-learning.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
