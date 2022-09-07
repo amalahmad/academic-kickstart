@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
- name = "Work in progress"
- url = "#projects"
- weight = 30
+ name = "Job market paper"
+ url = "#publications"
+ weight = 15
 
 [[main]]
   name = "Teaching"
