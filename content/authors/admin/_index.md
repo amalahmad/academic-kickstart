@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow at the University of Göttingen, in the department of Development Economics and the Center for Modern Indian Studies. I completed a PhD in Economics at the University of Massachusetts Amherst, where my research focused on developing countries, particularly the microeconomics of learning and development in the agricultural sector and elsewhere. I also study the game theory of conflict and cooperation in developing countries. 
+I am a Postdoctoral Fellow at the University of Göttingen, in the department of Economics and the Center for Modern Indian Studies, having completed a PhD in Economics at the University of Massachusetts Amherst (2021). In my research, I use theoretical and applied microeconomics to study behaviors such as learning, conflict, and voting, primarily in developing countries and as relates to broader questions of development. I will be on the 2022-2023 job market. 
 
