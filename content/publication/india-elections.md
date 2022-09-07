@@ -45,7 +45,7 @@ image_preview = ""
 projects = []
 
 # Links (optional).
-url_pdf = "publication/pub2.pdf"
+url_pdf = "publication/india-elections.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
