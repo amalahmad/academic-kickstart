@@ -2,7 +2,7 @@
 title = "Transfers and the rise of Hindu nationalism in India"
 
 # Date first published.
-date = "2020-10-01"
+date = "2022-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
