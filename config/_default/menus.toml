@@ -35,7 +35,7 @@
   url = "files/cv.pdf"
   weight = 45
 
-# [[main]]
- #name = "Job market paper"
-# url = "files/learning.pdf"
- #weight = 47
+ [[main]]
+ name = "Job market paper"
+ url = "files/india-elections.pdf"
+ weight = 47
