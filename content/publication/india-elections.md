@@ -1,5 +1,5 @@
 +++
-title = "Organizational deficiencies in developing countries and the role of global surgery"
+title = "Transfers and the rise of Hindu nationalism in India"
 
 # Date first published.
 date = "2020-10-01"
@@ -16,14 +16,14 @@ authors = ["Amal Ahmad"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Book chapter in Ahmad, A. and Agarwal, A (2021). 'EOS: Guidelines for Management in Resource-Limited Settings'. Taylor and Francis."
+# publication = "Book chapter in Ahmad, A. and Agarwal, A (2021). 'EOS: Guidelines for Management in Resource-Limited Settings'. Taylor and Francis."
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Surgical care in developing countries grapples with both financial and organizational problems. The financial problems are well understood by global health organizations, which often donate equipment and organize short-term volunteer missions in response. The organizational problems, however, are less well understood. This chapter explains how the poor organization of the most valuable medical resource in any country - human capital - affects the capability development of local surgeons, and how these problems can be alleviated through the development of context-specific learning-by-doing surgical programs in target countries."
+abstract = "This paper provides the first quasi-experimental evidence on the extent to which economic benefits programs have contributed to the electoral triumphs of the Hindu-nationalist party (BJP) in India. I study a national program through which the BJP incumbent has transferred development funds to villages with a high share of disadvantaged castes. Focusing on India’s largest state, I match villages to polling booths, and use a multiple-score regression discontinuity to identify the effects of past and expected transfers on village-level voting in the 2019 general elections. I find that neither treatment contributed to the BJP's victory among this important swing constituency."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ image_preview = ""
  
  # Tags
  
- tags = ["Developing countries", "Learning behavior", "Healthcare"]
+ #tags = ["Voting behavior", "Transfers", "Hindu nationalism"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
