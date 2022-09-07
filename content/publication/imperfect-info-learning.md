@@ -2,7 +2,7 @@
 title = "Imperfect information and learning: Evidence from cotton cultivation in Pakistan"
 
 # Date first published.
-date = "2022-06-01"
+date = "2022-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
@@ -19,7 +19,7 @@ authors = ["Amal Ahmad"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in *Journal of Economic Behavior & Organization*"
+publication = "**Journal of Economic Behavior & Organization**"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
