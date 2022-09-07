@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
- name = "Job market paper"
- url = "#publications"
- weight = 15
+#[[main]]
+# name = "Working papers"
+# url = "#publications"
+# weight = 25
 
 [[main]]
   name = "Teaching"
