@@ -1,11 +1,11 @@
 +++
-title = "The international political economy of patent buyouts (with D. Naeher and S. Vollmer)"
+title = "The international political economy of patent buyouts"
 
 # Date first published.
 date = "2022-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amal Ahmad"]
+authors = ["Amal Ahmad", "Dominik Naeher", "Sebastian Vollmer"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,6 @@ publication_types = ["3"]
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-# abstract = "This paper provides the first quasi-experimental evidence on the extent to which economic benefits programs have contributed to the electoral triumphs of the Hindu-nationalist party (BJP) in India. I study a national program through which the BJP incumbent has transferred development funds to villages with a high share of disadvantaged castes. Focusing on India’s largest state, I match villages to polling booths, and use a multiple-score regression discontinuity to identify the effects of past and expected transfers on village-level voting in the 2019 general elections. I find that neither treatment contributed to the BJP's victory among this important swing constituency."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
