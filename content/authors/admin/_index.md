@@ -44,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:amalahmad@umass.edu".
+  link: mailto:amal.ahmad@uni-goettingen.de".
 # - icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amal-ahmad-12879252/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/amalahmad
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
