@@ -1,5 +1,5 @@
 +++
-title = "Land for peace? Israel-Palestine through the lens of game theory"
+title = "Land for peace? Game theory and the strategic impediments to a resolution in Israel-Palestine"
 
 # Date first published.
 date = "2022-02-01"
