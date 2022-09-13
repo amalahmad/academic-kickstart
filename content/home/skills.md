@@ -26,11 +26,11 @@ subtitle = ""
   name = "STATA"
   description = ""
 
-[[feature]]
-  icon = "creative-commons-share"
-  icon_pack = "fab"
-  name = "LaTeX"
-  description = ""
+# [[feature]]
+ # icon = "creative-commons-share"
+ # icon_pack = "fab"
+ # name = "LaTeX"
+ # description = ""
 
 # [[feature]]
 #  icon = "chart-line"
@@ -38,11 +38,11 @@ subtitle = ""
 #  name = "Statistics"
 #  description = "100%"  
   
- [[feature]]
- icon = "creative-commons-share"
- icon_pack = "fab"
- name = "Sweave"
- description = ""
+ # [[feature]]
+ # icon = "creative-commons-share"
+ # icon_pack = "fab"
+ # name = "Sweave"
+ # description = ""
 
 [[feature]]
 icon = "neos"
