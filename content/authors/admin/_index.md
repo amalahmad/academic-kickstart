@@ -74,5 +74,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow at the University of Göttingen, in the department of Economics and the Center for Modern Indian Studies, having completed a PhD in Economics at the University of Massachusetts Amherst (2021). In my research, I use theoretical and applied microeconomics to study behaviors such as learning and voting, with a focus on developing countries. I also study conflict and cooperation, as relates to political conflict as well as public goods provision. I will be on the 2022-2023 job market. 
+I am a Postdoctoral Fellow at the University of Göttingen, in the department of Economics and the Center for Modern Indian Studies, having completed a PhD in Economics at the University of Massachusetts Amherst (2021). In my research, I use theoretical and applied microeconomics to study behaviors such as learning and voting, with a focus on developing countries. I also study the theory of conflict and cooperation, as relates to public goods provision as well as political conflict. I will be on the 2022-2023 job market. 
 
