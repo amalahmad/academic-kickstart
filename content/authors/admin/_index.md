@@ -74,5 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow at the University of Göttingen, in the department of Economics and the Center for Modern Indian Studies, having completed a PhD in Economics at the University of Massachusetts Amherst (2021). In my research, I use theoretical and applied microeconomics to study how poor rural populations respond to economic opportunities and constraints, as well as to study conflict and cooperative behavior in a range of settings.
+I am a Postdoctoral Fellow at the University of Göttingen, in the department of Economics and the Center for Modern Indian Studies, having received my PhD in Economics in 2021. In my research, I use theoretical and applied microeconomics to study how poor rural populations respond to economic opportunities and constraints, as well as to study conflict and cooperative behavior in a range of settings.
+
+In September 2023, I will join as Assistant Professor at the Development Economics Group at Wageningen University. 
 
