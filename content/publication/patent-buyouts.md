@@ -1,8 +1,8 @@
 +++
-title = "The international political economy of patent buyouts"
+title = "The political economy of patent buyouts"
 
 # Date first published.
-date = "2022-06-01"
+date = "2023-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad", "Dominik Naeher", "Sebastian Vollmer"]
