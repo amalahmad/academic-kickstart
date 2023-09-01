@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "amalahmad@umass.edu"
+email = "amal.ahmad@uni-goettingen.de"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Waldweg 26", city = "Göttingen", postcode = "37073", country = "Germany", country_code = "DE"}
+address = {street = "Hollandseweg 1", city = "Wageningen", postcode = "6706 KN", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.542980", longitude = "9.944850"}
+coordinates = {latitude = "51.980469", longitude = "5.673610"}
 
 # Directions for visitors to locate you.
 directions = ""
