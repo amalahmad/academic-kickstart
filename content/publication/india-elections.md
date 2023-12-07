@@ -1,5 +1,5 @@
 +++
-title = "Transfers and the rise of Hindu nationalism in India (Job market paper)"
+title = "Transfers and the rise of Hindu nationalism in India"
 
 # Date first published.
 date = "2022-08-01"
