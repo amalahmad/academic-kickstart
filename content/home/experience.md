@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
- """
+ 
 [[experience]]
   title = "Main instructor"
   company = "Wageningen University"
@@ -31,7 +31,6 @@ date_format = "Jan 2006"
   * Undergraduate microeconomics
   """
 
-"""
 [[experience]]
   title = "Main instructor"
   company = "University of Goettingen"
@@ -45,7 +44,6 @@ date_format = "Jan 2006"
   * Graduate interdisciplinary studies of modern India
   * Graduate health economics
  
-  """
   """
 [[experience]]
   title = "Main instructor"
