@@ -19,7 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Main instructor"
-  company = "Economics Department at UMass Amherst"
+  company = "Wageningen University"
+  company_url = ""
+  location = ""
+  date_start = "2023-09-01"
+  date_end = "2024-12-01"
+  description = """
+  
+  * Graduate political economy of development
+  * Undergraduate microeconomics
+  """
+
+[[experience]]
+  title = "Main instructor"
+  company = "University of Goettingen"
+  company_url = ""
+  location = ""
+  date_start = "2021-08-01"
+  date_end = "2023-08-01"
+  description = """
+    
+  * Graduate quasiexperimental economics and R Lab
+  * Graduate interdisciplinary studies of modern India
+  * Graduate health economics
+ 
+  """
+[[experience]]
+  title = "Main instructor"
+  company = "University of Massachusetts Amherst"
   company_url = ""
   location = ""
   date_start = "2019-01-01"
@@ -28,36 +55,10 @@ date_format = "Jan 2006"
   
   * Graduate mathematics camp 
   * Graduate econometrics camp 
-  * Undergraduate intermediate microeconomics
+  * Undergraduate microeconomics
   """
   
-[[experience]]
-  title = "Lab instructor, R"
-  company = "Economics Department at UMass Amherst"
-  company_url = ""
-  location = ""
-  date_start = "2017-09-01"
-  date_end = "2017-12-01"
-  description = """
-  
-  * Undergraduate econometrics
-  """
 
-[[experience]]
-  title = "Teaching assistant"
-  company = "Economics Department at UMass Amherst"
-  company_url = ""
-  location = ""
-  date_start = "2015-08-01"
-  date_end = "2020-12-01"
-  description = """
-    
-  * Graduate mathematical economics
-  * Graduate macroeconomics
-  * Undergraduate game theory
-  * Undergraduate introduction to macroeconomics
- 
-  """
  
 
 +++
