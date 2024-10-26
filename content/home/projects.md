@@ -76,10 +76,6 @@ subtitle = ""
 +++
 
 
-
-***Early age of marriage and child health*** (with Sebastian Vollmer). 
-
-
 ***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer). 
 
 
