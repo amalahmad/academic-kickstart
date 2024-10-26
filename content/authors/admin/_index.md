@@ -65,7 +65,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at the Development Economics Group at Wageningen University. In my research, I use theoretical and applied microeconomics to study how poor rural populations respond to economic opportunities and constraints, as well as to study conflict and cooperative behavior in a range of settings.
+I am an Assistant Professor at the Development Economics Group. My research focuses on development microeconomics and political economy. I am particularly interested in how rural populations in developing countries cope with information and resource constraints, as well as in how states navigate conflict and influence development prospects. To this end, my research combines microeconomic theory with a range of applied methods.
