@@ -23,16 +23,7 @@ publication_types = ["3"]
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
- abstract = "In democracies with widespread poverty, what is the impact of programmatic transfers
-on voting and on incumbent power? This paper provides the first village-level quasiexperimental evidence on this for India, in the context of the Hindu-nationalist party in power. First, I provide a novel method for linking Indian villages to polling booths
-and for obtaining village-level electoral data. Second, focusing on a program which
-transfers development funds to villages with a high share of disadvantaged castes, I use
-a discontinuity design to identify the effects of both past and promised transfers on
-voting in India’s largest state. Promised transfers increase village turnout slightly but
-neither treatment impact the villages’ vote share for the Hindu-nationalist incumbent,
-which is high across the board. The results suggest that political competition limits
-the impact of programmatic transfers on voting behavior, and they shed light on the
-recent slide to ethnic nationalism in the world’s largest democracy.."
+# abstract = "In democracies with widespread poverty, what is the impact of programmatic transfers on voting and on incumbent power? This paper provides the first village-level quasiexperimental evidence on this for India, in the context of the Hindu-nationalist party in power. First, I provide a novel method for linking Indian villages to polling booths and for obtaining village-level electoral data. Second, focusing on a program which transfers development funds to villages with a high share of disadvantaged castes, I use a discontinuity design to identify the effects of both past and promised transfers on voting in India’s largest state. Promised transfers increase village turnout slightly but neither treatment impact the villages’ vote share for the Hindu-nationalist incumbent,which is high across the board. The results suggest that political competition limits the impact of programmatic transfers on voting behavior, and they shed light on the recent slide to ethnic nationalism in the world’s largest democracy.."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
