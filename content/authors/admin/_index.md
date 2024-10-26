@@ -21,8 +21,8 @@ organizations:
 # bio: My research interests include development economics, microeconomics, and conflict studies.
 
 interests:
-- Development microeconomics
-- Applied microeconomics
+- Microeconomics of development
+- Political economy of development
 - Conflict, cooperation, and games
 
 education:
