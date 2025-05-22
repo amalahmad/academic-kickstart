@@ -2,7 +2,7 @@
 title = "The political economy of patent buyouts"
 
 # Date first published.
-date = "2024-07-01"
+date = "2025-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad", "Dominik Naeher", "Sebastian Vollmer"]
@@ -19,7 +19,7 @@ authors = ["Amal Ahmad", "Dominik Naeher", "Sebastian Vollmer"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-# publication = 
+publication = "Conditionally accepted in **RAND Journal of Economics**"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -32,7 +32,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
  selected = false
  
- featured = false
+ featured = true
  
  # Tags
  
