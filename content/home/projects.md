@@ -77,5 +77,5 @@ subtitle = ""
 
 
 ***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer). 
-
+***Agrarian political economy and settler colonialism in Palestine***
 
