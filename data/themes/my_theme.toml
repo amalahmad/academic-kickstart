@@ -15,7 +15,7 @@ menu_title = "#E8A9A9"
 
 # Backgrounds
 background = "#FFFFFF"
-home_section_even = "#F7F3F0"
+home_section_even = "#FCFBFA"
 home_section_odd = "#FFFFFF"
 
 dark_background = ""
