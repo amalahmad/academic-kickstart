@@ -5,13 +5,13 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#DE0D14"
+primary = "#E8A9A9"
 
 # Menu
-menu_primary = "#FFECD9"
-menu_text = "#038017"
-menu_text_active = "#038017"
-menu_title = "#038017"
+menu_primary = "#F7EFE9"
+menu_text = "#E8A9A9"
+menu_text_active = "#E8A9A9"
+menu_title = "#E8A9A9"
 
 # Backgrounds
 background = "#FFFFFF"
@@ -22,5 +22,5 @@ dark_background = ""
 dark_home_section_odd = ""
 dark_home_section_even = ""
 
-link = "#DE0D14"
-link_hover = "#038017"
+link = "#E8A9A9"
+link_hover = "#118AB2"
