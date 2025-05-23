@@ -8,10 +8,10 @@ light = true
 primary = "#DE0D14"
 
 # Menu
-menu_primary = "#0F6B31"
-menu_text = "#000000"
-menu_text_active = "#FFFFFF"
-menu_title = "#000000"
+menu_primary = "#E8A9A9"
+menu_text = "#05AD21"
+menu_text_active = "#05AD21"
+menu_title = "#05AD21"
 
 # Backgrounds
 background = "#FFFFFF"
@@ -23,4 +23,4 @@ dark_home_section_odd = ""
 dark_home_section_even = ""
 
 link = "#DE0D14"
-link_hover = "#0F6B31"
+link_hover = "#05AD21"
