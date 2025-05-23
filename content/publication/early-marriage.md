@@ -5,7 +5,7 @@ title = "A child feeding a child: Early marriage and child growth in India"
 date = "2024-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amal Ahmad"]
+authors = ["Amal Ahmad", "Sebastian Vollmer"]
 
 # Publication type.
 # Legend:
