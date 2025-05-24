@@ -77,7 +77,7 @@ subtitle = ""
 
 [Israel's no-state solution and the endurance of Palestine](https://www.newarab.com/analysis/israels-no-state-solution-and-endurance-palestine) (2024), *New Arab*. <br/> 
 
-[The PA's revenue structure & Israel's containment strategy](https://al-shabaka.org/commentaries/the-pas-revenue-structure-and-israels-containment-strategy/) (2023), *Palestinian Policy Network*. [Arabic version](https://al-shabaka.org/commentaries/%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9/) <br/> 
+[The PA's revenue structure & Israel's containment strategy](https://al-shabaka.org/commentaries/the-pas-revenue-structure-and-israels-containment-strategy/) (2023), *Palestinian Policy Network*. [بالعربية ](https://al-shabaka.org/commentaries/%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9/) <br/> 
 
 [Organisational deficiencies in developing countries and the role of global surgery](https://amalahmad.net/publication/pub2.pdf) (2021), in Alaaeldin Ahmad and Aakash Agarwal (eds) *Early onset scoliosis: Guidelines for management in resource-limited settings*, Routledge. <br/>
 
