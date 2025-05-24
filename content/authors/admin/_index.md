@@ -74,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at the Development Economics Group at Wageningen University. I study how political power and distributive conflict shape institutions and inform development, as well as how rural populations in developing countries cope with various constraints. To this end, my research combines political economy, microeconomic theory, and a range of applied methods. I also teach political economy and microeconomics at the graduate and undergraduate levels.
+I am an Assistant Professor at the Development Economics Group at Wageningen University. 
+
+I study how political power and distributive conflict shape institutions and inform development, as well as how rural populations in developing countries cope with various constraints. To this end, my research combines political economy, microeconomic theory, and a range of applied methods. I also teach political economy and microeconomics at the graduate and undergraduate levels.
 
 In addition to my academic work, I contribute regularly to public scholarship particularly on Palestine. You can find my papers and other writings on this page. 
