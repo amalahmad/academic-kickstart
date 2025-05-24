@@ -19,7 +19,7 @@ authors = ["Amal Ahmad", "Dominik Naeher", "Sebastian Vollmer"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditionally accepted in **RAND Journal of Economics**"
+publication = "Conditionally accepted in ***RAND Journal of Economics***"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
