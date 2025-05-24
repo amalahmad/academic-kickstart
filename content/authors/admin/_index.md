@@ -76,4 +76,4 @@ user_groups:
 
 I am an Assistant Professor at the Development Economics Group at Wageningen University. In my academic research, I study the microeconomics and political economy of development. I am particularly interested in how rural populations in developing countries cope with various constraints, as well as in how political power and distributive conflict shape institutions and inform development. To this end, my research combines microeconomic theory with a range of applied methods. I also teach microeconomics and political economy at the graduate and undergraduate levels.
 
-In addition to my academic work, I contribute regularly to public scholarship particularly on Palestine. You can find my academic and other writings on this page. 
+In addition to my academic work, I contribute regularly to public scholarship particularly on Palestine. You can find my papers and other writings on this page. 
