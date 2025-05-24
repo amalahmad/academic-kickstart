@@ -2,7 +2,7 @@
 title = "Land for peace? Game theory and the strategic impediments to a resolution in Israel-Palestine"
 
 # Date first published.
-date = "2022-02-01"
+date = "2023-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad"]
@@ -23,7 +23,7 @@ publication = "**Defence and Peace Economics**"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Why have Israel and the Palestinians failed to implement a ‘land for peace’ solution, along the lines of the Oslo Accords? This paper studies the application of strategic behavior models, in the form of games, to this question. I show that existing models of the conflict largely rely on unrealistic assumptions about what the main actors are trying to achieve. Specifically, they assume that Israel is strategically interested in withdrawing from the occupied territories pending resolvable security concerns but that it is obstructed from doing so by violent Palestinians with other objectives. I use historical analysis along with bargaining theory to shed doubt on this assumption, and to argue that the persistence of conflict has been aligned with, not contrary to, the interests of the militarily powerful party, Israel. The analysis helps explain, from a strategic behavior perspective, why resolutions like the Oslo Accords, which rely on the land for peace paradigm and on self-enforcement, have failed to create peace."
+# abstract = "Why have Israel and the Palestinians failed to implement a ‘land for peace’ solution, along the lines of the Oslo Accords? This paper studies the application of strategic behavior models, in the form of games, to this question. I show that existing models of the conflict largely rely on unrealistic assumptions about what the main actors are trying to achieve. Specifically, they assume that Israel is strategically interested in withdrawing from the occupied territories pending resolvable security concerns but that it is obstructed from doing so by violent Palestinians with other objectives. I use historical analysis along with bargaining theory to shed doubt on this assumption, and to argue that the persistence of conflict has been aligned with, not contrary to, the interests of the militarily powerful party, Israel. The analysis helps explain, from a strategic behavior perspective, why resolutions like the Oslo Accords, which rely on the land for peace paradigm and on self-enforcement, have failed to create peace."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
