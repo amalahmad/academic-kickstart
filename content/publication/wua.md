@@ -2,7 +2,7 @@
 title = "Water user associations and collective action in developing countries"
 
 # Date first published.
-date = "2022-05-01"
+date = "2024-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amal Ahmad", "Leonard Krapf", "Sebastian Vollmer"]
@@ -41,7 +41,7 @@ featured = false
 projects = []
 
 # Links (optional).
-url_pdf = "publication/early-marriage.pdf"
+# url_pdf = "publication/early-marriage.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
