@@ -79,6 +79,8 @@ subtitle = ""
 
 [The PA's revenue structure & Israel's containment strategy](https://al-shabaka.org/commentaries/the-pas-revenue-structure-and-israels-containment-strategy/) (2023), *Palestinian Policy Network*. <br/> 
 
+[Organisational deficiencies in developing countries and the role of global surgery](https://amalahmad.net/publication/pub2.pdf) (2021), in A. Ahmad and A. Agarwal (eds) *Early onset scoliosis: Guidelines for management in resource-limited settings*, Routledge. <br/>
+
 [70 years of Nabka: Where can Palestinians go from here?](https://al-shabaka.org/roundtables/70-years-of-nakba-where-can-palestinians-go-from-here/) (2018), *Palestinian Policy Network*. <br/>
 
 [Beyond the binary: Two states, one state, failed state, no state](https://al-shabaka.org/policy-memos/beyond-the-binary-two-states-one-state-failed-state-no-state/) (2017), *Palestinian Policy Network*. <br/>
