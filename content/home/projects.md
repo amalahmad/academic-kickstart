@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 39  # Order that this section will appear.
 
-title = "Work in progress"
+title = "Other writings"
 subtitle = ""
 
 [content]
@@ -77,7 +77,17 @@ subtitle = ""
 
 [Israel's no-state solution and the endurance of Palestine](https://www.newarab.com/analysis/israels-no-state-solution-and-endurance-palestine) (2024), *New Arab*. <br/> 
 
-***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer) <br/> 
+[The PA's revenue structure & Israel's containment strategy](https://al-shabaka.org/commentaries/the-pas-revenue-structure-and-israels-containment-strategy/) (2023), *Palestinian Policy Network*. <br/> 
 
-***Agrarian political economy and settler colonialism in Palestine***
+[70 years of Nabka: Where can Palestinians go from here?](https://al-shabaka.org/roundtables/70-years-of-nakba-where-can-palestinians-go-from-here/) (2018), *Palestinian Policy Network*. <br/>
+
+[Beyond the binary: Two states, one state, failed state, no state](https://al-shabaka.org/policy-memos/beyond-the-binary-two-states-one-state-failed-state-no-state/) (2017), *Palestinian Policy Network*. <br/>
+
+[Palestinian democracy denied](https://al-shabaka.org/roundtables/palestinian-democracy-denied/) (2016), *Palestinian Policy Network*. <br/>
+
+[Reflections on Palestinian strategy](https://al-shabaka.org/commentaries/reflections-on-palestinian-strategy/) (2016), *Palestinian Policy Network*. <br/>
+
+[How Israel gets to cut off Palestine’s revenues](https://thehill.com/blogs/congress-blog/foreign-policy/231493-how-israel-gets-to-cut-off-palestines-revenue/) (2015), *The Hill*. <br/>
+
+[The customs union and Israel's no-state solution](https://al-shabaka.org/briefs/the-customs-union-israels-no-state-solution/) (2014), *Palestinian Policy Network*. <br/>
 
