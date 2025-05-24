@@ -75,6 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
+[Israel's no-state solution and the endurance of Palestine](https://www.newarab.com/analysis/israels-no-state-solution-and-endurance-palestine) (2024), *New Arab*. <br/> 
 
 ***Water user associations and collective action in developing countries*** (with Leonard Krapf and Sebastian Vollmer) <br/> 
 
