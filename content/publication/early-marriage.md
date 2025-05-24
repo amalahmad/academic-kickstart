@@ -23,7 +23,7 @@ publication_types = ["3"]
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Hundreds of millions of Indian children are too short for their age. In this paper we explore whether early marriage of women in India contributes to this phenomenon. Using India’s national health surveys and age at menarche as an instrument, we find that one year earlier mother’s marriage reduces her child’s height-for-age by 0.20 standard deviations. On mechanisms, earlier-married mothers delay infant complementary feeding and breastfeed for less time; these practices appear to be influenced by knowledge gaps and preference issues. Given slow evolution in marital age practices, supporting the nutrition efforts of earlymarried mothers can markedly improve intergenerational well-being."
+# abstract = "Hundreds of millions of Indian children are too short for their age. In this paper we explore whether early marriage of women in India contributes to this phenomenon. Using India’s national health surveys and age at menarche as an instrument, we find that one year earlier mother’s marriage reduces her child’s height-for-age by 0.20 standard deviations. On mechanisms, earlier-married mothers delay infant complementary feeding and breastfeed for less time; these practices appear to be influenced by knowledge gaps and preference issues. Given slow evolution in marital age practices, supporting the nutrition efforts of earlymarried mothers can markedly improve intergenerational well-being."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
