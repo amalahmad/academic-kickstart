@@ -9,10 +9,10 @@ primary = "#E8A9A9"
 
 # Menu
 # menu_primary = "#F7EFE9"
-menu_primary = "#FFFFFF"
-menu_text = "#000000"
+menu_primary = "#474747"
+menu_text = "#FFFFFF"
 menu_text_active = "#E8A9A9"
-menu_title = "#000000"
+menu_title = "#FFFFFF"
 
 # Backgrounds
 background = "#FFFFFF"
